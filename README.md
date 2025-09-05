@@ -1,4 +1,4 @@
-# Chatroom Application
+# Chat Application
 
 A real-time chatroom app built with Flask, Flask-SocketIO, and Flask-SQLAlchemy.
 Users can sign up, log in, create/join chat rooms, send messages, share files, and see real-time user counts.
